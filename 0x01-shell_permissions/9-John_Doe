@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod u+x ugo 753 hello
